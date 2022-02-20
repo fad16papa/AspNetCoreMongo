@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Catalog.API
+build_property.ProjectDir = /Users/francisdecena/project/AspNetCoreMongo/src/catalog/Catalog.API/
