@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DuJAUb/WcmlPBaUpJ78QaNbBk4CFYumSWLk5EZUWSscBo0Avpx2t4XqvHK3eh46X2/u7xwZCYKXWXmPpTI7h2A==",
+  "dgSpecHash": "EPtLPXQVmNYNTgN/oLMdqNxN64EVvHPIIcq/+Brr09Tro5ydLXmpY6ARH509hFxJ7FpPyrhFYCe1ZuaI/qIXVA==",
   "success": true,
   "projectFilePath": "/Users/francisdecena/project/AspNetCoreMongo/src/catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,7 @@
     "/Users/francisdecena/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "/Users/francisdecena/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/francisdecena/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "/Users/francisdecena/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+    "/Users/francisdecena/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
   ],
   "logs": []
 }
